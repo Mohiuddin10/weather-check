@@ -1,4 +1,4 @@
-const apiKey = `46ad7457603b9b0104e633e78cd60e16`;
+const apiKey = `6a98237f83598797b84639ea23bc4634`;
 
 const searchTemp = () => {
     const city = document.getElementById("city-name");
